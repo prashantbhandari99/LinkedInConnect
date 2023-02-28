@@ -1,2 +1,2 @@
 # LinkedInConnect
-A simple chrome extension that automates connect in LinkedIn.
+A chrome extension that's able to send connection requests to a list of people in a LinkedIn search.
